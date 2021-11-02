@@ -1,0 +1,10 @@
+﻿  Main.cpp
+D:\Development\c++\String\String.h(30,15): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  String.cpp
+D:\Development\c++\String\String.h(30,15): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Development\c++\String\String.cpp(15,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Development\c++\String\String.cpp(22,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Development\c++\String\String.cpp(49,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Development\c++\String\String.cpp(57,56): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  String.vcxproj -> D:\Development\c++\String\x64\Debug\String.exe

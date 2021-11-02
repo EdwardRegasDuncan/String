@@ -68,5 +68,12 @@ String operator+(const String& _str1, const String& _str2) {
 }
 
 bool operator==(const String& _str1, const String& _str2) {
-	return _str1.str == _str2.str ? true : false;
+	bool state = true;
+	int length = strlen(_str1.str) - 1;
+	for (int x = 0; x < length; ++x) {
+		if (_str1.str[x] != _str2.str[x]) {
+			state = false;
+		}
+	}
+	return state;
 }

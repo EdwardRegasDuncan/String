@@ -25,10 +25,10 @@ public:
 	String(const String& _str);
 	String(String&& _str);
 
-	~String() { delete str; }
+	~String() { delete str; };
 
-	int length() { return strlen(str); }
-	void clear() { str = nullptr; }
+	int length() { return strlen(str); };
+	void clear() { str = nullptr; };
 
 private:
 	char* str;

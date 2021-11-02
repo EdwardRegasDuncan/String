@@ -1,10 +1,11 @@
 ﻿  Main.cpp
-D:\Development\c++\String\String.h(30,15): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\edwardr\Documents\GitHub\String\String.h(30,15): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
   String.cpp
-D:\Development\c++\String\String.h(30,15): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-D:\Development\c++\String\String.cpp(15,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\Development\c++\String\String.cpp(22,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\Development\c++\String\String.cpp(49,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\Development\c++\String\String.cpp(57,56): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Generating Code...
-  String.vcxproj -> D:\Development\c++\String\x64\Debug\String.exe
+C:\Users\edwardr\Documents\GitHub\String\String.h(30,15): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\edwardr\Documents\GitHub\String\String.cpp(15,34): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\edwardr\Documents\GitHub\String\String.cpp(22,39): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\edwardr\Documents\GitHub\String\String.cpp(49,39): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\edwardr\Documents\GitHub\String\String.cpp(57,56): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\edwardr\Documents\GitHub\String\String.cpp(72,36): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código...
+  String.vcxproj -> C:\Users\edwardr\Documents\GitHub\String\x64\Debug\String.exe

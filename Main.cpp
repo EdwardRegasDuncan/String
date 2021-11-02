@@ -24,7 +24,7 @@ int main() {
 	std::cout << "Clear: " << clearTest << std::endl;*/
 
 	String add1 = "Foo";
-	String add2 = "Foo";
+	String add2 = "Bar";
 	String add3;
 	add3 = add1 + add2;
 	std::cout << "combined: " << add3 << std::endl;
